@@ -1,5 +1,5 @@
 To Do List
-
+learn
 laundry
 dry cleaning
 buy groceries
@@ -9,3 +9,4 @@ mow lawn
 weed garden
 take out trash
 practice piano
+play

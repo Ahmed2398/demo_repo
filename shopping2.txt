@@ -1,21 +1,25 @@
 Shopping List
 
-red apples
-bananas
+5 red apples
+10bananas
 2 yogurt
 milk
+13 tea
 juice`
 cereal
 22eggs
 bacon
+ 45 milk tea
 44orange juice
 grapes
 juice lemons
 lettuce
-rice
+10 rice
 soup
-ice cream
+05 ice cream
 sugar
 flour
 flourflourflourflourflour
 
+coffe
+fish
